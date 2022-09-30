@@ -1,2 +1,2 @@
 # voorbeeld1
-dit is een voorbeeld van een rea
+dit is een voorbeeld van een 
